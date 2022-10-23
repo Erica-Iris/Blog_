@@ -1,6 +1,6 @@
 # Main Page
 
-[MoreYu](1ris.top)
+[MoreYu](http://1ris.top)
 
 # Usage
 
