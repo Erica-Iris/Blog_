@@ -1,3 +1,7 @@
+# Main Page
+
+[MoreYu](1ris.top)
+
 # Usage
 
 ```css
